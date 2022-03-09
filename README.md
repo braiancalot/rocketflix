@@ -9,9 +9,7 @@ Neste desafio, foi proposto a criação de uma página que consuma a API do TMDB
 <br>
 
 ## 🚀 Resultado: 
-<p align="center">
-    <img src="./images/resultado.gif">
-</p>
+<img src="./images/resultado.gif">
 
 <a href="https://rocketflix-pi.vercel.app">Clique aqui para acessar o projeto</a> 
 
